@@ -1,3 +1,3 @@
 fun main() {
-    println("Hello Geeks")
+    println("First App")
 }
