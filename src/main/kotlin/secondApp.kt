@@ -1,3 +1,3 @@
 fun main(){
-    print("Wow")
+    print("Secon App")
 }
